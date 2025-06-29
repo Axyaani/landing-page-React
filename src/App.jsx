@@ -11,7 +11,7 @@ function App() {
           </div>
           <img src={hero} alt="Product" className="w-48 md:w-64" />
         </div> 
-        <div className="sm:flex  justify-center text-xl text-center gap-8 text-white  sm:mt-12 bg-[#15213c] sm:py-8   w-full absolute  sm:top-96   ">
+        <div className="sm:flex  justify-center text-xl text-center gap-8 text-white  sm:mt-12 bg-[#15213c] sm:py-8   w-full absolute  sm:top-96  ">
           <div>
             <i className="fas fa-bolt mb-1"></i><br />Works 5x Faster
           </div>
